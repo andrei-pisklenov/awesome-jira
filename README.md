@@ -1,2 +1,3 @@
-# awesome-jira
-Awesome JIRA
+# Awesome JIRA
+A curated list of awesome JIRA development best practices and examples.
+
